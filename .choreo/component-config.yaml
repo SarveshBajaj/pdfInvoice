@@ -1,0 +1,7 @@
+version: "1.0.0"
+components:
+  - name: invoiceComponent
+    type: HTTP
+    endpoints:
+    - name: Greeting Service
+      port: 5000  
