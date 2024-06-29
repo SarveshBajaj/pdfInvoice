@@ -1,1 +1,1 @@
-web: python3 Ashish_bill.py
+web: pip3 install -r requirements.txt && python3 Ashish_bill.py
